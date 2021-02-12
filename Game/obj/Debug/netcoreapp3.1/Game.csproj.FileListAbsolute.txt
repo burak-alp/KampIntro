@@ -1,0 +1,13 @@
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\buuna\source\repos\kampIntro\Game\bin\Debug\netcoreapp3.1\Game.exe
+C:\Users\buuna\source\repos\kampIntro\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+C:\Users\buuna\source\repos\kampIntro\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+C:\Users\buuna\source\repos\kampIntro\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+C:\Users\buuna\source\repos\kampIntro\Game\bin\Debug\netcoreapp3.1\Game.dll
+C:\Users\buuna\source\repos\kampIntro\Game\bin\Debug\netcoreapp3.1\Game.pdb
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.dll
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.pdb
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
+C:\Users\buuna\source\repos\kampIntro\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache

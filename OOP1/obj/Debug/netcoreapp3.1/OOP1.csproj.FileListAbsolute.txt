@@ -1,0 +1,13 @@
+C:\Users\buuna\source\repos\kampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.exe
+C:\Users\buuna\source\repos\kampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.deps.json
+C:\Users\buuna\source\repos\kampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.json
+C:\Users\buuna\source\repos\kampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.runtimeconfig.dev.json
+C:\Users\buuna\source\repos\kampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.dll
+C:\Users\buuna\source\repos\kampIntro\OOP1\bin\Debug\netcoreapp3.1\OOP1.pdb
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csprojAssemblyReference.cache
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfoInputs.cache
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.AssemblyInfo.cs
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.dll
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.pdb
+C:\Users\buuna\source\repos\kampIntro\OOP1\obj\Debug\netcoreapp3.1\OOP1.genruntimeconfig.cache
